@@ -1,0 +1,15 @@
+"""faça um programa que leia um numero e mostre na tela sua taboada"""
+
+nr = int(input('digite o numero que voce quer a taboada :'))
+x1 = (nr * 1)
+x2 = (nr * 2)
+x3 = (nr * 3)
+x4 = (nr * 4)
+x5 = (nr * 5)
+x6 = (nr * 6)
+x7 = (nr * 7)
+x8 = (nr * 8)
+x9 = (nr * 9)
+x10 = (nr * 10)
+print('a taboada de multiplicação desse numero e \n {} x 1= {} \n {} x 2= {} \n x 3= {} \n x 4= {}'.format(nr,nr,x1,x2,x3,x4))
+print(' x 5= {} \n x 6= {} \n x 7= {} \n x 8= {} \n x 9= {} \n x10= {}'.format(x5,x6,x7,x8,x9,x10))

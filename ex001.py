@@ -1,0 +1,5 @@
+nm =input('input qual seu nome ?')
+idd =input('quantos anos voce tem ? ')
+cdd =input('qual sua cidade natal?')
+print('então seu nome é',nm,'voce tem',idd,'anos e voce mora na cidade de',cdd)
+print('estou certo?')
